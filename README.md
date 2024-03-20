@@ -4,16 +4,41 @@
 </p>
 
 <h1 align="center"> DEDSEC_SHRED </h1>
-<h4 align="center">DEDSEC_SHRED is a Linux-based tool with the ability to send, read, delete, and receive emails.</h4>
+<h4 align="center">DEDSEC_SHRED is a Linux-based tool for securely erasing files and directories, ensuring data irrecoverability. It offers customizable passes for overwriting data and provides visual feedback during the shredding process. Perfect for sensitive data disposal with peace of mind.</h4>
+
 
 ### DESCRIPTION
-DEDSEC_SHRED is a Linux-based tool designed to retrieve inbox and sent messages using an email address and app password generated from a Gmail account. This innovative solution provides users with the ability to access their emails discreetly, With its user-friendly interface, DEDSEC_GCLI simplifies the process of accessing and managing emails, offering convenience and privacy in online communications.
+
+DEDSEC_SHRED is a powerful data security tool designed to securely erase sensitive files and directories from your system, ensuring that the data is irrecoverable. This tool implements advanced data shredding techniques to overwrite the contents of files and directories multiple times with pseudorandom data generated using cryptographic hashing algorithms.
+
+
+### Features:
+
+   * Secure File Shredding: DEDSEC_SHRED allows you to securely erase individual files by overwriting their contents multiple times with pseudorandom data, making it virtually impossible to recover the original data.
+    
+   * Directory Erasure: With DEDSEC_SHRED, you can securely erase entire directories and their contents. The tool recursively traverses the directory structure, securely erasing files and subdirectories within the specified directory.
+    
+   * Customizable Passes: You can configure the number of passes for overwriting data, allowing you to adjust the level of security based on your specific requirements.
+    
+   * Terminal-Based Interface: DEDSEC_SHRED provides a user-friendly terminal-based interface, making it easy to use and integrate into your workflow.
+    
+   * Visual Feedback: The tool offers visual feedback during the shredding process, providing clear indications of the progress and status of each file and directory being securely erased.
+
+### Usage:
+
+   * Run the DEDSEC_SHRED tool from the terminal.
+   * Enter the file or directory path you want to securely erase.
+   * Optionally, specify the number of passes for overwriting data (default is 3).
+   * Sit back and let DEDSEC_SHRED securely erase your sensitive data, providing peace of mind that it cannot be recovered.
+
+> [!NOTE]
+> DEDSEC_SHRED is intended for use in situations where data security is paramount, such as securely deleting confidential documents, personal files, or decommissioning storage devices.
 
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_SHRED.git
     * cd DEDSEC_SHRED
-    * chmod +x dedsec_gcli
-    * ./dedsec_gcli
+    * chmod +x dedsec_shred
+    * ./dedsec_shred
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
