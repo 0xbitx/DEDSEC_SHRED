@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZjcTN6dDBreXRucW8zNTRrbmU4c3doa2J0ejZhNGxndHd2b3A1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif", width="400", height="400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHUyZWprYWp2NzdzbDFoYXV3dXEyNm92Zm1ueWd0MnRsMGZieDJ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3sQZIgQsUm9Aw1MjG/giphy.gif", width="500", height="500">
 </p>
 
 <h1 align="center"> DEDSEC_SHRED </h1>
