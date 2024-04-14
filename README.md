@@ -11,7 +11,6 @@
 
 DEDSEC_SHRED is a powerful data security tool designed to securely erase sensitive files and directories from your system, ensuring that the data is irrecoverable. This tool implements advanced data shredding techniques to overwrite the contents of files and directories multiple times with pseudorandom data generated using cryptographic hashing algorithms.
 
-
 ### Features:
 
    * Secure File Shredding: DEDSEC_SHRED allows you to securely erase individual files by overwriting their contents multiple times with pseudorandom data, making it virtually impossible to recover the original data.
@@ -29,7 +28,6 @@ DEDSEC_SHRED is a powerful data security tool designed to securely erase sensiti
    * Run the DEDSEC_SHRED tool from the terminal.
    * Enter the file or directory path you want to securely erase.
    * Optionally, specify the number of passes for overwriting data (default is 3).
-   * Sit back and let DEDSEC_SHRED securely erase your sensitive data, providing peace of mind that it cannot be recovered.
 
 > [!NOTE]
 > DEDSEC_SHRED is intended for use in situations where data security is paramount, such as securely deleting confidential documents, personal files, or decommissioning storage devices.
